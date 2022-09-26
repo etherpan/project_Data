@@ -1,0 +1,107 @@
+{
+  "name": "Uniswap Labs Default",
+  "timestamp": "2022-06-29T15:57:01.868Z",
+  "version": {
+    "major": 4,
+    "minor": 1,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+  "keywords": [
+    "uniswap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0x4d90C115dc87F41919Baa7e22E39477A6d1aaF3A",
+      "name": "VetCoin",
+      "symbol": "VTC",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Gld0777/tokenImages/master/png/32x32/32x32-vetCoin.png",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x111111111117dC0aa78b770fA6A738034120C302"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0xd32ca707b182e364Ed94834B6F3664B998F2778d",
+      "name": "VetCash",
+      "symbol": "VCH",
+      "decimals": 18,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/Qmaa5evvLq7sje4v6mZuwNCJ6SfB6r43gbN4uEQPk56jKd/32x32-VetCash.png",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x111111111117dC0aa78b770fA6A738034120C302"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
+      "name": "Aave",
+      "symbol": "AAVE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12645/thumb/AAVE.png?1601374110",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x9c2C5fd7b07E95EE044DDeba0E97a665F142394f",
+      "name": "1inch",
+      "symbol": "1INCH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13469/thumb/1inch-token.png?1608803028",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x111111111117dC0aa78b770fA6A738034120C302"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
+      "name": "Aave",
+      "symbol": "AAVE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12645/thumb/AAVE.png?1601374110",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x6a6bD53d677F8632631662C48bD47b1D4D6524ee",
+      "name": "Adventure Gold",
+      "symbol": "AGLD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/18125/thumb/lpgblc4h_400x400.jpg?1630570955",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x32353A6C91143bfd6C7d363B546e62a9A2489A20"
+          }
+        }
+      }
+    }
+  ]
+}
