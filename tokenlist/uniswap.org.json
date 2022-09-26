@@ -34,7 +34,7 @@
       "name": "VetCash",
       "symbol": "VCH",
       "decimals": 18,
-      "logoURI": "https://gateway.pinata.cloud/ipfs/Qmaa5evvLq7sje4v6mZuwNCJ6SfB6r43gbN4uEQPk56jKd/32x32-VetCash.png",
+      "logoURI": "https://raw.githubusercontent.com/Gld0777/project_Data/master/png/32x32/32x32-vetCash.png",
       "extensions": {
         "bridgeInfo": {
           "1": {
