@@ -19,7 +19,7 @@
       "name": "VetCoin",
       "symbol": "VTC",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/Gld0777/tokenImages/master/png/32x32/32x32-vetCoin.png",
+      "logoURI": "https://raw.githubusercontent.com/Gld0777/project_Data/master/png/32x32/32x32-vetCoin.png",
       "extensions": {
         "bridgeInfo": {
           "1": {
