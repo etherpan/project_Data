@@ -33,7 +33,7 @@
       "address": "0xd32ca707b182e364Ed94834B6F3664B998F2778d",
       "name": "VetCash",
       "symbol": "VCH",
-      "decimals": 18,
+      "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/Gld0777/project_Data/master/png/32x32/32x32-vetCash.png",
       "extensions": {
         "bridgeInfo": {
