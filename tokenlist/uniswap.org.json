@@ -147,6 +147,21 @@
       "symbol": "USDT",
       "decimals": 6,
       "chainId": 137,
+      "logoURI": "",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7"
+          }
+        }
+      }
+    },
+    {
+      "name": "New Babylon",
+      "address": "0x715d25fbcf882eb8d5a907ac9aeb49f6a7325159",
+      "symbol": "BYN",
+      "decimals": 9,
+      "chainId": 137,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
       "extensions": {
         "bridgeInfo": {
