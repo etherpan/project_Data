@@ -157,21 +157,6 @@
       }
     },
     {
-      "name": "New Babylon",
-      "address": "0x715d25fbcf882eb8d5a907ac9aeb49f6a7325159",
-      "symbol": "BYN",
-      "decimals": 9,
-      "chainId": 137,
-      "logoURI": "",
-      "extensions": {
-        "bridgeInfo": {
-          "1": {
-            "tokenAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7"
-          }
-        }
-      }
-    },
-    {
       "name": "Wrapped BTC",
       "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
       "symbol": "WBTC",
